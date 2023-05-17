@@ -32,5 +32,6 @@ This is my first javascript packed project.I learnt how to use flag variable and
 
 - [resource ](https://chat.openai.com/)
 - [resource ](https://stackoverflow.com/)
+- https://ishadeed.com/article/css-short-long-content/
 
 
