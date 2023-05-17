@@ -62,8 +62,7 @@ label {
   margin-top: 2rem;
 }
 
-.btn:active,
-.btn:hover {
+.btn:active {
   background: hsl(0, 0%, 8%);
 }
 
