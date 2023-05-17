@@ -13,9 +13,7 @@ Users should be able to:
   - The month number is not between 1-12
   - The year is in the future
   - The date is invalid e.g. 31/04/1991 (there are 30 days in April)
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
-- **Bonus**: See the age numbers animate to their final number when the form is submitted
+
 
 ### Links
 
@@ -28,10 +26,11 @@ Users should be able to:
 
 ### What I learned
 
-
+This is my first javascript packed project.I learnt how to use flag variable and different JavaScript HTML DOM EventListener and DOM manipulation.And Bootstraps' form elements.  
 
 ### Useful resources
 
-- [resource ](https://chat.openai.com/) - This helped me to review code 
+- [resource ](https://chat.openai.com/)
+- [resource ](https://stackoverflow.com/)
 
 
