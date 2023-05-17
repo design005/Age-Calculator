@@ -135,13 +135,6 @@ small {
   }
 }
 
-@media screen and (max-width: 579px) {
-  .btn {
-    right: auto;
-    left: 50%;
-    transform: translate(-50%, 0);
-  }
-}
 @media screen and (max-width: 417px) {
   span.blanks {
     font-size: 2rem;
