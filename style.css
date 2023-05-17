@@ -88,12 +88,12 @@ span.blanks {
 }
 
 .error,
-.day-error,
 small {
   color: hsl(0, 100%, 67%);
-  font-size: 0.9rem;
+  }
+small{
+ font-size:0.79rem; 
 }
-
 .error + input {
   border: 1px solid hsl(0, 100%, 67%);
 }
